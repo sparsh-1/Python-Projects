@@ -1,1 +1,2 @@
 # sparsh-1
+I have created a very interesting number guessing game. In this game a user have to guess the number guessed by the computer. Download my source code file and have fun playing the game. I have used random, time and os function in my project, and currently building the GUI version of my project using tkinter. All of your contributions are welcomed. I will be happy if someone find a flaw in my program or wants to add a feature in the program.
